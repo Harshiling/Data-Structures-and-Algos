@@ -1,4 +1,3 @@
 # Data-Structures-and-Algos
 
-Initial phase of learnings of Datastructures and Algorithms
-
+Initial phase of learnings of Data-structures and Algorithms
